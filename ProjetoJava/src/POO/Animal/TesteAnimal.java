@@ -11,16 +11,16 @@ public class TesteAnimal {
 		
 			
 		Cavalo cavalo = new Cavalo();
-		cavalo.setNome("Pé de Pano");
+		cavalo.setNome("PÃ© de Pano");
 		cavalo.setIdade(7);
-		cavalo.setSom("iiiirrórrórrórró");
+		cavalo.setSom("iiiirrÃ³rrÃ³rrÃ³rrÃ³");
 		cavalo.setGalopar("Galopa");
 		
 		Preguica preguica = new Preguica();
 		preguica.setNome("Prego");
 		preguica.setIdade(4);
-		preguica.setSom("Dei um soco na preguiça");
-		preguica.setEscalar("Escala árvores");
+		preguica.setSom("...");
+		preguica.setEscalar("Escala Ã¡rvores");
 		
 		Animal[] animais = new Animal[3];
 		animais[0] = cachorro;
