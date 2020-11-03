@@ -1,2 +1,2 @@
 # blogPessoal
-API para blog pessoal, consumo em Angular.
+API para blog pessoal.
